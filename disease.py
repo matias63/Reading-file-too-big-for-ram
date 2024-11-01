@@ -10,7 +10,7 @@ from scipy.stats import norm
 import enum 
 
 
-### Focus: Using the generator to not store any data in memory.
+### Focus: Using the generator to not store any data in memory from the dataset.
 ### Using Composition to make single responsibility functions
 ### Calculate the fitness of people in the dataset based on their MET score without storing any of the read data in memory.
 
