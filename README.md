@@ -2,13 +2,16 @@
 
 disease.py have some notes to the focus area of the program, but i will add them here aswell.
  - Focus: Using the generator to not store any data in memory from the dataset.
- - Using Composition to make single responsibility functions
+ - Using Composition to make single responsibility functions.
  - Calculate the fitness of people in the dataset based on their MET score without storing any of the read data in memory.
-
+## Required packages ##
+Can be found in requirements.txt.
+Use pip install 'package_name'.
+   
 ## How to Run ##
-- Download github repo
+- Download github repository.
 - I did not make an executable so run the program in the terminal with:
-python3 disease.py cardio_train.csv
+python3 disease.py cardio_train.csv.
 
 
 ## Content Files ##
